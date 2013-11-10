@@ -1,887 +1,788 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<gpx version="1.1"
-     creator="gMapToGPX 6.4.11 - http://github.com/seafoodbuffet/gMapToGPX"
-     xmlns="http://www.topografix.com/GPX/1/1"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-   <rte>
-      <name>Gmaps Pedometer Route</name>
-      <cmt>Permalink: <![CDATA[
-Permalink unavailable.
-]]>
-</cmt>
-      <rtept lat="52.4351" lon="6.88439">
-         <name>Start</name>
-      </rtept>
-      <rtept lat="52.43655" lon="6.8712">
-         <name>Turn 1</name>
-      </rtept>
-      <rtept lat="52.43619" lon="6.86864">
-         <name>Turn 2</name>
-      </rtept>
-      <rtept lat="52.43697" lon="6.86802">
-         <name>Turn 3</name>
-      </rtept>
-      <rtept lat="52.43807" lon="6.8681">
-         <name>Turn 4</name>
-      </rtept>
-      <rtept lat="52.43833" lon="6.8668">
-         <name>Turn 5</name>
-      </rtept>
-      <rtept lat="52.43842" lon="6.86662">
-         <name>Turn 6</name>
-      </rtept>
-      <rtept lat="52.43872" lon="6.86405">
-         <name>Turn 7</name>
-      </rtept>
-      <rtept lat="52.43938" lon="6.85667">
-         <name>Turn 8</name>
-      </rtept>
-      <rtept lat="52.4401" lon="6.85256">
-         <name>Turn 9</name>
-      </rtept>
-      <rtept lat="52.43832" lon="6.84736">
-         <name>Turn 10</name>
-      </rtept>
-      <rtept lat="52.43613" lon="6.83746">
-         <name>Turn 11</name>
-      </rtept>
-      <rtept lat="52.43549" lon="6.8349">
-         <name>Turn 12</name>
-      </rtept>
-      <rtept lat="52.43507" lon="6.83457">
-         <name>Turn 13</name>
-      </rtept>
-      <rtept lat="52.4337" lon="6.83433">
-         <name>Turn 14</name>
-      </rtept>
-      <rtept lat="52.43378" lon="6.83295">
-         <name>Turn 15</name>
-      </rtept>
-      <rtept lat="52.43385" lon="6.83063">
-         <name>Turn 16</name>
-      </rtept>
-      <rtept lat="52.43334" lon="6.82573">
-         <name>Turn 17</name>
-      </rtept>
-      <rtept lat="52.43075" lon="6.82078">
-         <name>Turn 18</name>
-      </rtept>
-      <rtept lat="52.4266" lon="6.81701">
-         <name>Turn 19</name>
-      </rtept>
-      <rtept lat="52.42439" lon="6.8139">
-         <name>Turn 20</name>
-      </rtept>
-      <rtept lat="52.42201" lon="6.80584">
-         <name>Turn 21</name>
-      </rtept>
-      <rtept lat="52.4212" lon="6.79846">
-         <name>Turn 22</name>
-      </rtept>
-      <rtept lat="52.41899" lon="6.79579">
-         <name>Turn 23</name>
-      </rtept>
-      <rtept lat="52.41799" lon="6.79434">
-         <name>Turn 24</name>
-      </rtept>
-      <rtept lat="52.41448" lon="6.79206">
-         <name>Turn 25</name>
-      </rtept>
-      <rtept lat="52.41251" lon="6.78943">
-         <name>Turn 26</name>
-      </rtept>
-      <rtept lat="52.41148" lon="6.78765">
-         <name>Turn 27</name>
-      </rtept>
-      <rtept lat="52.41085" lon="6.78656">
-         <name>Turn 28</name>
-      </rtept>
-      <rtept lat="52.40973" lon="6.7835">
-         <name>Turn 29</name>
-      </rtept>
-      <rtept lat="52.40893" lon="6.78157">
-         <name>Turn 30</name>
-      </rtept>
-      <rtept lat="52.40769" lon="6.78175">
-         <name>Turn 31</name>
-      </rtept>
-      <rtept lat="52.40561" lon="6.77841">
-         <name>Turn 32</name>
-      </rtept>
-      <rtept lat="52.40465" lon="6.77724">
-         <name>Turn 33</name>
-      </rtept>
-      <rtept lat="52.40423" lon="6.77478">
-         <name>Turn 34</name>
-      </rtept>
-      <rtept lat="52.40365" lon="6.77147">
-         <name>Turn 35</name>
-      </rtept>
-      <rtept lat="52.40086" lon="6.76837">
-         <name>Turn 36</name>
-      </rtept>
-      <rtept lat="52.39863" lon="6.76125">
-         <name>Turn 37</name>
-      </rtept>
-      <rtept lat="52.38583" lon="6.72759">
-         <name>Turn 38</name>
-      </rtept>
-      <rtept lat="52.38359" lon="6.71653">
-         <name>Turn 39</name>
-      </rtept>
-      <rtept lat="52.38109" lon="6.70955">
-         <name>Turn 40</name>
-      </rtept>
-      <rtept lat="52.37943" lon="6.7064">
-         <name>Turn 41</name>
-      </rtept>
-      <rtept lat="52.37733" lon="6.70478">
-         <name>Turn 42</name>
-      </rtept>
-      <rtept lat="52.37618" lon="6.70131">
-         <name>Turn 43</name>
-      </rtept>
-      <rtept lat="52.37374" lon="6.69261">
-         <name>Turn 44</name>
-      </rtept>
-      <rtept lat="52.37284" lon="6.68704">
-         <name>Turn 45</name>
-      </rtept>
-      <rtept lat="52.37224" lon="6.68411">
-         <name>Turn 46</name>
-      </rtept>
-      <rtept lat="52.37086" lon="6.68214">
-         <name>Turn 47</name>
-      </rtept>
-      <rtept lat="52.36928" lon="6.67848">
-         <name>Turn 48</name>
-      </rtept>
-      <rtept lat="52.36768" lon="6.67299">
-         <name>Turn 49</name>
-      </rtept>
-      <rtept lat="52.36709" lon="6.66812">
-         <name>Turn 50</name>
-      </rtept>
-      <rtept lat="52.36819" lon="6.66169">
-         <name>Turn 51</name>
-      </rtept>
-      <rtept lat="52.36832" lon="6.66021">
-         <name>Turn 52</name>
-      </rtept>
-      <rtept lat="52.36773" lon="6.65585">
-         <name>Turn 53</name>
-      </rtept>
-      <rtept lat="52.36575" lon="6.65237">
-         <name>Turn 54</name>
-      </rtept>
-      <rtept lat="52.36329" lon="6.6481">
-         <name>Turn 55</name>
-      </rtept>
-      <rtept lat="52.36249" lon="6.64599">
-         <name>Turn 56</name>
-      </rtept>
-      <rtept lat="52.36167" lon="6.64447">
-         <name>Turn 57</name>
-      </rtept>
-      <rtept lat="52.36292" lon="6.63825">
-         <name>Turn 58</name>
-      </rtept>
-      <rtept lat="52.36323" lon="6.63543">
-         <name>Turn 59</name>
-      </rtept>
-      <rtept lat="52.36255" lon="6.63508">
-         <name>Turn 60</name>
-      </rtept>
-      <rtept lat="52.36048" lon="6.63431">
-         <name>Turn 61</name>
-      </rtept>
-      <rtept lat="52.3592" lon="6.62973">
-         <name>Turn 62</name>
-      </rtept>
-      <rtept lat="52.35931" lon="6.62747">
-         <name>Turn 63</name>
-      </rtept>
-      <rtept lat="52.35746" lon="6.62621">
-         <name>Turn 64</name>
-      </rtept>
-      <rtept lat="52.35624" lon="6.62531">
-         <name>Turn 65</name>
-      </rtept>
-      <rtept lat="52.35626" lon="6.62431">
-         <name>Turn 66</name>
-      </rtept>
-      <rtept lat="52.35606" lon="6.6237">
-         <name>Turn 67</name>
-      </rtept>
-      <rtept lat="52.35611" lon="6.61527">
-         <name>Turn 68</name>
-      </rtept>
-      <rtept lat="52.35628" lon="6.61347">
-         <name>Turn 69</name>
-      </rtept>
-      <rtept lat="52.35671" lon="6.60067">
-         <name>Turn 70</name>
-      </rtept>
-      <rtept lat="52.35721" lon="6.59342">
-         <name>Turn 71</name>
-      </rtept>
-      <rtept lat="52.35901" lon="6.5888">
-         <name>Turn 72</name>
-      </rtept>
-      <rtept lat="52.36012" lon="6.58215">
-         <name>Turn 73</name>
-      </rtept>
-      <rtept lat="52.35997" lon="6.57469">
-         <name>Turn 74</name>
-      </rtept>
-      <rtept lat="52.35971" lon="6.571">
-         <name>Turn 75</name>
-      </rtept>
-      <rtept lat="52.35877" lon="6.56574">
-         <name>Turn 76</name>
-      </rtept>
-      <rtept lat="52.36031" lon="6.53948">
-         <name>Turn 77</name>
-      </rtept>
-      <rtept lat="52.362" lon="6.51403">
-         <name>Turn 78</name>
-      </rtept>
-      <rtept lat="52.363" lon="6.49743">
-         <name>Turn 79</name>
-      </rtept>
-      <rtept lat="52.36448" lon="6.47447">
-         <name>Turn 80</name>
-      </rtept>
-      <rtept lat="52.36541" lon="6.45978">
-         <name>Turn 81</name>
-      </rtept>
-      <rtept lat="52.36663" lon="6.44135">
-         <name>Turn 82</name>
-      </rtept>
-      <rtept lat="52.36712" lon="6.43009">
-         <name>Turn 83</name>
-      </rtept>
-      <rtept lat="52.36623" lon="6.43039">
-         <name>Turn 84</name>
-      </rtept>
-      <rtept lat="52.36538" lon="6.43056">
-         <name>Turn 85</name>
-      </rtept>
-      <rtept lat="52.36502" lon="6.42894">
-         <name>Turn 86</name>
-      </rtept>
-      <rtept lat="52.36507" lon="6.42682">
-         <name>Turn 87</name>
-      </rtept>
-      <rtept lat="52.36497" lon="6.42646">
-         <name>Turn 88</name>
-      </rtept>
-      <rtept lat="52.3632" lon="6.42172">
-         <name>Turn 89</name>
-      </rtept>
-      <rtept lat="52.36136" lon="6.41299">
-         <name>Turn 90</name>
-      </rtept>
-      <rtept lat="52.36" lon="6.40623">
-         <name>Turn 91</name>
-      </rtept>
-      <rtept lat="52.35833" lon="6.40265">
-         <name>Turn 92</name>
-      </rtept>
-      <rtept lat="52.35598" lon="6.39875">
-         <name>Turn 93</name>
-      </rtept>
-      <rtept lat="52.3549" lon="6.39594">
-         <name>Turn 94</name>
-      </rtept>
-      <rtept lat="52.35234" lon="6.38603">
-         <name>Turn 95</name>
-      </rtept>
-      <rtept lat="52.3517" lon="6.38346">
-         <name>Turn 96</name>
-      </rtept>
-      <rtept lat="52.34919" lon="6.38243">
-         <name>Turn 97</name>
-      </rtept>
-      <rtept lat="52.34378" lon="6.37346">
-         <name>Turn 98</name>
-      </rtept>
-      <rtept lat="52.34128" lon="6.36928">
-         <name>Turn 99</name>
-      </rtept>
-      <rtept lat="52.33094" lon="6.34838">
-         <name>Turn 100</name>
-      </rtept>
-      <rtept lat="52.33047" lon="6.3473">
-         <name>Turn 101</name>
-      </rtept>
-      <rtept lat="52.32859" lon="6.34447">
-         <name>Turn 102</name>
-      </rtept>
-      <rtept lat="52.3278" lon="6.34348">
-         <name>Turn 103</name>
-      </rtept>
-      <rtept lat="52.3277" lon="6.34329">
-         <name>Turn 104</name>
-      </rtept>
-      <rtept lat="52.32454" lon="6.33715">
-         <name>Turn 105</name>
-      </rtept>
-      <rtept lat="52.32293" lon="6.33024">
-         <name>Turn 106</name>
-      </rtept>
-      <rtept lat="52.31961" lon="6.31518">
-         <name>Turn 107</name>
-      </rtept>
-      <rtept lat="52.31817" lon="6.3133">
-         <name>Turn 108</name>
-      </rtept>
-      <rtept lat="52.31595" lon="6.31204">
-         <name>Turn 109</name>
-      </rtept>
-      <rtept lat="52.31525" lon="6.31055">
-         <name>Turn 110</name>
-      </rtept>
-      <rtept lat="52.3151" lon="6.31051">
-         <name>Turn 111</name>
-      </rtept>
-      <rtept lat="52.31435" lon="6.31075">
-         <name>Turn 112</name>
-      </rtept>
-      <rtept lat="52.31462" lon="6.3072">
-         <name>Turn 113</name>
-      </rtept>
-      <rtept lat="52.31426" lon="6.30348">
-         <name>Turn 114</name>
-      </rtept>
-      <rtept lat="52.31382" lon="6.30164">
-         <name>Turn 115</name>
-      </rtept>
-      <rtept lat="52.31229" lon="6.30016">
-         <name>Turn 116</name>
-      </rtept>
-      <rtept lat="52.31062" lon="6.3">
-         <name>Turn 117</name>
-      </rtept>
-      <rtept lat="52.30876" lon="6.29781">
-         <name>Turn 118</name>
-      </rtept>
-      <rtept lat="52.3076" lon="6.29493">
-         <name>Turn 119</name>
-      </rtept>
-      <rtept lat="52.30672" lon="6.29259">
-         <name>Turn 120</name>
-      </rtept>
-      <rtept lat="52.30567" lon="6.28939">
-         <name>Turn 121</name>
-      </rtept>
-      <rtept lat="52.30403" lon="6.28043">
-         <name>Turn 122</name>
-      </rtept>
-      <rtept lat="52.30362" lon="6.27033">
-         <name>Turn 123</name>
-      </rtept>
-      <rtept lat="52.29872" lon="6.26403">
-         <name>Turn 124</name>
-      </rtept>
-      <rtept lat="52.29549" lon="6.25988">
-         <name>Turn 125</name>
-      </rtept>
-      <rtept lat="52.294" lon="6.25634">
-         <name>Turn 126</name>
-      </rtept>
-      <rtept lat="52.2909" lon="6.2513">
-         <name>Turn 127</name>
-      </rtept>
-      <rtept lat="52.28913" lon="6.24908">
-         <name>Turn 128</name>
-      </rtept>
-      <rtept lat="52.28797" lon="6.24324">
-         <name>Turn 129</name>
-      </rtept>
-      <rtept lat="52.28744" lon="6.23324">
-         <name>Turn 130</name>
-      </rtept>
-      <rtept lat="52.28532" lon="6.22487">
-         <name>Turn 131</name>
-      </rtept>
-      <rtept lat="52.28315" lon="6.21822">
-         <name>Turn 132</name>
-      </rtept>
-      <rtept lat="52.28265" lon="6.21792">
-         <name>Turn 133</name>
-      </rtept>
-      <rtept lat="52.27954" lon="6.21456">
-         <name>Turn 134</name>
-      </rtept>
-      <rtept lat="52.2755" lon="6.20447">
-         <name>Turn 135</name>
-      </rtept>
-      <rtept lat="52.27442" lon="6.20183">
-         <name>Turn 136</name>
-      </rtept>
-      <rtept lat="52.27235" lon="6.19777">
-         <name>Turn 137</name>
-      </rtept>
-      <rtept lat="52.27046" lon="6.19681">
-         <name>Turn 138</name>
-      </rtept>
-      <rtept lat="52.26897" lon="6.19448">
-         <name>Turn 139</name>
-      </rtept>
-      <rtept lat="52.26781" lon="6.18916">
-         <name>Turn 140</name>
-      </rtept>
-      <rtept lat="52.26711" lon="6.18502">
-         <name>Turn 141</name>
-      </rtept>
-      <rtept lat="52.26712" lon="6.18484">
-         <name>Turn 142</name>
-      </rtept>
-      <rtept lat="52.26707" lon="6.18462">
-         <name>Turn 143</name>
-      </rtept>
-      <rtept lat="52.26685" lon="6.18109">
-         <name>Turn 144</name>
-      </rtept>
-      <rtept lat="52.26867" lon="6.17659">
-         <name>Turn 145</name>
-      </rtept>
-      <rtept lat="52.26634" lon="6.17116">
-         <name>Turn 146</name>
-      </rtept>
-      <rtept lat="52.26296" lon="6.16301">
-         <name>Turn 147</name>
-      </rtept>
-      <rtept lat="52.25961" lon="6.15443">
-         <name>Turn 148</name>
-      </rtept>
-      <rtept lat="52.25905" lon="6.1544">
-         <name>Turn 149</name>
-      </rtept>
-      <rtept lat="52.25879" lon="6.15278">
-         <name>Turn 150</name>
-      </rtept>
-      <rtept lat="52.25768" lon="6.1499">
-         <name>Turn 151</name>
-      </rtept>
-      <rtept lat="52.25104" lon="6.13971">
-         <name>Turn 152</name>
-      </rtept>
-      <rtept lat="52.24653" lon="6.13323">
-         <name>Turn 153</name>
-      </rtept>
-      <rtept lat="52.24492" lon="6.12972">
-         <name>Turn 154</name>
-      </rtept>
-      <rtept lat="52.24292" lon="6.12384">
-         <name>Turn 155</name>
-      </rtept>
-      <rtept lat="52.24256" lon="6.12029">
-         <name>Turn 156</name>
-      </rtept>
-      <rtept lat="52.24254" lon="6.11472">
-         <name>Turn 157</name>
-      </rtept>
-      <rtept lat="52.24202" lon="6.11176">
-         <name>Turn 158</name>
-      </rtept>
-      <rtept lat="52.24152" lon="6.10996">
-         <name>Turn 159</name>
-      </rtept>
-      <rtept lat="52.2424" lon="6.10904">
-         <name>Turn 160</name>
-      </rtept>
-      <rtept lat="52.24169" lon="6.10487">
-         <name>Turn 161</name>
-      </rtept>
-      <rtept lat="52.24133" lon="6.10235">
-         <name>Turn 162</name>
-      </rtept>
-      <rtept lat="52.23988" lon="6.09622">
-         <name>Turn 163</name>
-      </rtept>
-      <rtept lat="52.2396" lon="6.09238">
-         <name>Turn 164</name>
-      </rtept>
-      <rtept lat="52.23831" lon="6.08689">
-         <name>Turn 165</name>
-      </rtept>
-      <rtept lat="52.23772" lon="6.0851">
-         <name>Turn 166</name>
-      </rtept>
-      <rtept lat="52.23724" lon="6.08313">
-         <name>Turn 167</name>
-      </rtept>
-      <rtept lat="52.23772" lon="6.07685">
-         <name>Turn 168</name>
-      </rtept>
-      <rtept lat="52.23849" lon="6.07267">
-         <name>Turn 169</name>
-      </rtept>
-      <rtept lat="52.23708" lon="6.05585">
-         <name>Turn 170</name>
-      </rtept>
-      <rtept lat="52.23636" lon="6.05009">
-         <name>Turn 171</name>
-      </rtept>
-      <rtept lat="52.23537" lon="6.04839">
-         <name>Turn 172</name>
-      </rtept>
-      <rtept lat="52.23243" lon="6.04426">
-         <name>Turn 173</name>
-      </rtept>
-      <rtept lat="52.23171" lon="6.04143">
-         <name>Turn 174</name>
-      </rtept>
-      <rtept lat="52.23108" lon="6.03835">
-         <name>Turn 175</name>
-      </rtept>
-      <rtept lat="52.23131" lon="6.02864">
-         <name>Turn 176</name>
-      </rtept>
-      <rtept lat="52.23031" lon="6.02246">
-         <name>Turn 177</name>
-      </rtept>
-      <rtept lat="52.22858" lon="6.01864">
-         <name>Turn 178</name>
-      </rtept>
-      <rtept lat="52.22602" lon="6.01305">
-         <name>Turn 179</name>
-      </rtept>
-      <rtept lat="52.22263" lon="6.00575">
-         <name>Turn 180</name>
-      </rtept>
-      <rtept lat="52.22137" lon="6.00307">
-         <name>Turn 181</name>
-      </rtept>
-      <rtept lat="52.22009" lon="6.00021">
-         <name>Turn 182</name>
-      </rtept>
-      <rtept lat="52.22066" lon="5.99923">
-         <name>Turn 183</name>
-      </rtept>
-      <rtept lat="52.22187" lon="5.99713">
-         <name>Turn 184</name>
-      </rtept>
-      <rtept lat="52.22275" lon="5.99541">
-         <name>Turn 185</name>
-      </rtept>
-      <rtept lat="52.2232" lon="5.99437">
-         <name>Turn 186</name>
-      </rtept>
-      <rtept lat="52.22378" lon="5.99344">
-         <name>Turn 187</name>
-      </rtept>
-      <rtept lat="52.22821" lon="5.98514">
-         <name>Turn 188</name>
-      </rtept>
-      <rtept lat="52.23024" lon="5.98009">
-         <name>Turn 189</name>
-      </rtept>
-      <rtept lat="52.2311" lon="5.97288">
-         <name>Turn 190</name>
-      </rtept>
-      <rtept lat="52.2308" lon="5.96513">
-         <name>Turn 191</name>
-      </rtept>
-      <rtept lat="52.2304" lon="5.95916">
-         <name>Turn 192</name>
-      </rtept>
-      <rtept lat="52.2314" lon="5.95371">
-         <name>Turn 193</name>
-      </rtept>
-      <rtept lat="52.22764" lon="5.94601">
-         <name>Turn 194</name>
-      </rtept>
-      <rtept lat="52.22677" lon="5.9388">
-         <name>Turn 195</name>
-      </rtept>
-      <rtept lat="52.22869" lon="5.90188">
-         <name>Turn 196</name>
-      </rtept>
-      <rtept lat="52.2328" lon="5.88985">
-         <name>Turn 197</name>
-      </rtept>
-      <rtept lat="52.23271" lon="5.86599">
-         <name>Turn 198</name>
-      </rtept>
-      <rtept lat="52.22878" lon="5.84843">
-         <name>Turn 199</name>
-      </rtept>
-      <rtept lat="52.22294" lon="5.82781">
-         <name>Turn 200</name>
-      </rtept>
-      <rtept lat="52.22104" lon="5.77886">
-         <name>Turn 201</name>
-      </rtept>
-      <rtept lat="52.22022" lon="5.75389">
-         <name>Turn 202</name>
-      </rtept>
-      <rtept lat="52.219" lon="5.72653">
-         <name>Turn 203</name>
-      </rtept>
-      <rtept lat="52.21347" lon="5.70623">
-         <name>Turn 204</name>
-      </rtept>
-      <rtept lat="52.19713" lon="5.64992">
-         <name>Turn 205</name>
-      </rtept>
-      <rtept lat="52.18989" lon="5.62351">
-         <name>Turn 206</name>
-      </rtept>
-      <rtept lat="52.1893" lon="5.61711">
-         <name>Turn 207</name>
-      </rtept>
-      <rtept lat="52.19003" lon="5.61626">
-         <name>Turn 208</name>
-      </rtept>
-      <rtept lat="52.18969" lon="5.61436">
-         <name>Turn 209</name>
-      </rtept>
-      <rtept lat="52.18911" lon="5.61117">
-         <name>Turn 210</name>
-      </rtept>
-      <rtept lat="52.18821" lon="5.60844">
-         <name>Turn 211</name>
-      </rtept>
-      <rtept lat="52.18868" lon="5.60748">
-         <name>Turn 212</name>
-      </rtept>
-      <rtept lat="52.19047" lon="5.60637">
-         <name>Turn 213</name>
-      </rtept>
-      <rtept lat="52.19088" lon="5.60442">
-         <name>Turn 214</name>
-      </rtept>
-      <rtept lat="52.19181" lon="5.6032">
-         <name>Turn 215</name>
-      </rtept>
-      <rtept lat="52.19296" lon="5.60003">
-         <name>Turn 216</name>
-      </rtept>
-      <rtept lat="52.1929" lon="5.59442">
-         <name>Turn 217</name>
-      </rtept>
-      <rtept lat="52.19221" lon="5.58562">
-         <name>Turn 218</name>
-      </rtept>
-      <rtept lat="52.18988" lon="5.5625">
-         <name>Turn 219</name>
-      </rtept>
-      <rtept lat="52.18959" lon="5.55916">
-         <name>Turn 220</name>
-      </rtept>
-      <rtept lat="52.18861" lon="5.55321">
-         <name>Turn 221</name>
-      </rtept>
-      <rtept lat="52.18775" lon="5.54863">
-         <name>Turn 222</name>
-      </rtept>
-      <rtept lat="52.18739" lon="5.54264">
-         <name>Turn 223</name>
-      </rtept>
-      <rtept lat="52.18631" lon="5.53987">
-         <name>Turn 224</name>
-      </rtept>
-      <rtept lat="52.18678" lon="5.53739">
-         <name>Turn 225</name>
-      </rtept>
-      <rtept lat="52.18738" lon="5.53367">
-         <name>Turn 226</name>
-      </rtept>
-      <rtept lat="52.18358" lon="5.523">
-         <name>Turn 227</name>
-      </rtept>
-      <rtept lat="52.18328" lon="5.5231">
-         <name>Turn 228</name>
-      </rtept>
-      <rtept lat="52.18206" lon="5.5206">
-         <name>Turn 229</name>
-      </rtept>
-      <rtept lat="52.18015" lon="5.51521">
-         <name>Turn 230</name>
-      </rtept>
-      <rtept lat="52.17935" lon="5.50997">
-         <name>Turn 231</name>
-      </rtept>
-      <rtept lat="52.17904" lon="5.50407">
-         <name>Turn 232</name>
-      </rtept>
-      <rtept lat="52.17786" lon="5.50196">
-         <name>Turn 233</name>
-      </rtept>
-      <rtept lat="52.17639" lon="5.4958">
-         <name>Turn 234</name>
-      </rtept>
-      <rtept lat="52.1749" lon="5.48649">
-         <name>Turn 235</name>
-      </rtept>
-      <rtept lat="52.17525" lon="5.48001">
-         <name>Turn 236</name>
-      </rtept>
-      <rtept lat="52.17534" lon="5.46743">
-         <name>Turn 237</name>
-      </rtept>
-      <rtept lat="52.17619" lon="5.46126">
-         <name>Turn 238</name>
-      </rtept>
-      <rtept lat="52.17571" lon="5.45704">
-         <name>Turn 239</name>
-      </rtept>
-      <rtept lat="52.17402" lon="5.44551">
-         <name>Turn 240</name>
-      </rtept>
-      <rtept lat="52.17299" lon="5.43847">
-         <name>Turn 241</name>
-      </rtept>
-      <rtept lat="52.17028" lon="5.43402">
-         <name>Turn 242</name>
-      </rtept>
-      <rtept lat="52.16616" lon="5.42165">
-         <name>Turn 243</name>
-      </rtept>
-      <rtept lat="52.16513" lon="5.41958">
-         <name>Turn 244</name>
-      </rtept>
-      <rtept lat="52.16376" lon="5.41856">
-         <name>Turn 245</name>
-      </rtept>
-      <rtept lat="52.16357" lon="5.41727">
-         <name>Turn 246</name>
-      </rtept>
-      <rtept lat="52.16298" lon="5.41337">
-         <name>Turn 247</name>
-      </rtept>
-      <rtept lat="52.16182" lon="5.41183">
-         <name>Turn 248</name>
-      </rtept>
-      <rtept lat="52.1611" lon="5.40767">
-         <name>Turn 249</name>
-      </rtept>
-      <rtept lat="52.16031" lon="5.40448">
-         <name>Turn 250</name>
-      </rtept>
-      <rtept lat="52.15912" lon="5.39985">
-         <name>Turn 251</name>
-      </rtept>
-      <rtept lat="52.15887" lon="5.39767">
-         <name>Turn 252</name>
-      </rtept>
-      <rtept lat="52.15627" lon="5.39062">
-         <name>Turn 253</name>
-      </rtept>
-      <rtept lat="52.15436" lon="5.38731">
-         <name>Turn 254</name>
-      </rtept>
-      <rtept lat="52.15385" lon="5.38444">
-         <name>Turn 255</name>
-      </rtept>
-      <rtept lat="52.15321" lon="5.38366">
-         <name>Turn 256</name>
-      </rtept>
-      <rtept lat="52.15118" lon="5.38111">
-         <name>Turn 257</name>
-      </rtept>
-      <rtept lat="52.15031" lon="5.37939">
-         <name>Turn 258</name>
-      </rtept>
-      <rtept lat="52.14934" lon="5.37602">
-         <name>Turn 259</name>
-      </rtept>
-      <rtept lat="52.14665" lon="5.37056">
-         <name>Turn 260</name>
-      </rtept>
-      <rtept lat="52.14505" lon="5.36815">
-         <name>Turn 261</name>
-      </rtept>
-      <rtept lat="52.14232" lon="5.36297">
-         <name>Turn 262</name>
-      </rtept>
-      <rtept lat="52.14139" lon="5.35945">
-         <name>Turn 263</name>
-      </rtept>
-      <rtept lat="52.14178" lon="5.35658">
-         <name>Turn 264</name>
-      </rtept>
-      <rtept lat="52.14087" lon="5.35433">
-         <name>Turn 265</name>
-      </rtept>
-      <rtept lat="52.1395" lon="5.35365">
-         <name>Turn 266</name>
-      </rtept>
-      <rtept lat="52.13882" lon="5.35034">
-         <name>Turn 267</name>
-      </rtept>
-      <rtept lat="52.13361" lon="5.33141">
-         <name>Turn 268</name>
-      </rtept>
-      <rtept lat="52.12276" lon="5.2915">
-         <name>Turn 269</name>
-      </rtept>
-      <rtept lat="52.11184" lon="5.25172">
-         <name>Turn 270</name>
-      </rtept>
-      <rtept lat="52.10953" lon="5.24371">
-         <name>Turn 271</name>
-      </rtept>
-      <rtept lat="52.10774" lon="5.23658">
-         <name>Turn 272</name>
-      </rtept>
-      <rtept lat="52.10678" lon="5.22665">
-         <name>Turn 273</name>
-      </rtept>
-      <rtept lat="52.10571" lon="5.21703">
-         <name>Turn 274</name>
-      </rtept>
-      <rtept lat="52.10436" lon="5.21269">
-         <name>Turn 275</name>
-      </rtept>
-      <rtept lat="52.10124" lon="5.20516">
-         <name>Turn 276</name>
-      </rtept>
-      <rtept lat="52.10251" lon="5.20156">
-         <name>Turn 277</name>
-      </rtept>
-      <rtept lat="52.10206" lon="5.19208">
-         <name>Turn 278</name>
-      </rtept>
-      <rtept lat="52.10274" lon="5.183">
-         <name>Turn 279</name>
-      </rtept>
-      <rtept lat="52.10288" lon="5.17629">
-         <name>Turn 280</name>
-      </rtept>
-      <rtept lat="52.1011" lon="5.16858">
-         <name>Turn 281</name>
-      </rtept>
-      <rtept lat="52.09847" lon="5.15677">
-         <name>Turn 282</name>
-      </rtept>
-      <rtept lat="52.09559" lon="5.14113">
-         <name>Turn 283</name>
-      </rtept>
-      <rtept lat="52.09514" lon="5.12211">
-         <name>Turn 284</name>
-      </rtept>
-      <rtept lat="52.09427" lon="5.1193">
-         <name>Turn 285</name>
-      </rtept>
-      <rtept lat="52.09312" lon="5.11474">
-         <name>Turn 286</name>
-      </rtept>
-      <rtept lat="52.09238" lon="5.10964">
-         <name>Turn 287</name>
-      </rtept>
-      <rtept lat="52.09191" lon="5.10559">
-         <name>Turn 288</name>
-      </rtept>
-      <rtept lat="52.09111" lon="5.09825">
-         <name>Turn 289</name>
-      </rtept>
-      <rtept lat="52.09073" lon="5.09421">
-         <name>Turn 290</name>
-      </rtept>
-   </rte>
+<?xml version="1.0"?>
+<gpx version="1.0" creator="http://gpx.geotags.com/cgi-bin/gpx.cgi" xmlns="http://www.topografix.com/GPX/1/0">
+  <trk>
+    <name>kanaalstraat 231 utrecht to mosbeekweg 10 hezingen (destination)</name>
+    <trkseg>
+      <trkpt lat="52.090742" lon="5.094302">
+        <desc>Head west on Kanaalstraat toward Billitonkade; go 99m</desc>
+      </trkpt>
+      <trkpt lat="52.090604" lon="5.092864">
+        <desc>Continue onto Laan van Nieuw Guinea; go 650m</desc>
+      </trkpt>
+      <trkpt lat="52.090534" lon="5.092026"/>
+      <trkpt lat="52.090742" lon="5.090995"/>
+      <trkpt lat="52.090962" lon="5.090384"/>
+      <trkpt lat="52.092086" lon="5.088248"/>
+      <trkpt lat="52.093559" lon="5.085817"/>
+      <trkpt lat="52.093771" lon="5.085410">
+        <desc>Turn right onto Spinozaweg; go 130m</desc>
+      </trkpt>
+      <trkpt lat="52.094908" lon="5.085612">
+        <desc>Continue onto Thomas à Kempisweg; go 280m</desc>
+      </trkpt>
+      <trkpt lat="52.097409" lon="5.086115">
+        <desc>Continue onto Cartesiusweg; go 750m</desc>
+      </trkpt>
+      <trkpt lat="52.101384" lon="5.087005"/>
+      <trkpt lat="52.101762" lon="5.087320"/>
+      <trkpt lat="52.103644" lon="5.089948">
+        <desc>Continue onto Sint-Josephlaan; go 240m</desc>
+      </trkpt>
+      <trkpt lat="52.103788" lon="5.090113"/>
+      <trkpt lat="52.103900" lon="5.090173"/>
+      <trkpt lat="52.105001" lon="5.091858"/>
+      <trkpt lat="52.105222" lon="5.092302">
+        <desc>Continue onto Marnixlaan Go through 2 roundabouts; go 1.0km</desc>
+      </trkpt>
+      <trkpt lat="52.106363" lon="5.094056"/>
+      <trkpt lat="52.106462" lon="5.094237"/>
+      <trkpt lat="52.106449" lon="5.094430"/>
+      <trkpt lat="52.106481" lon="5.094513"/>
+      <trkpt lat="52.106616" lon="5.094600"/>
+      <trkpt lat="52.107130" lon="5.095265"/>
+      <trkpt lat="52.108348" lon="5.097126"/>
+      <trkpt lat="52.108526" lon="5.097452"/>
+      <trkpt lat="52.108673" lon="5.097854"/>
+      <trkpt lat="52.108680" lon="5.097986"/>
+      <trkpt lat="52.108729" lon="5.098107"/>
+      <trkpt lat="52.108804" lon="5.098176"/>
+      <trkpt lat="52.108902" lon="5.098174"/>
+      <trkpt lat="52.109566" lon="5.099045"/>
+      <trkpt lat="52.109882" lon="5.099583"/>
+      <trkpt lat="52.111643" lon="5.103090">
+        <desc>Continue onto Einsteindreef; go 260m</desc>
+      </trkpt>
+      <trkpt lat="52.112329" lon="5.104472"/>
+      <trkpt lat="52.113214" lon="5.105986">
+        <desc>Turn right onto Brailledreef; go 1.1km</desc>
+      </trkpt>
+      <trkpt lat="52.112706" lon="5.107281"/>
+      <trkpt lat="52.112434" lon="5.107821"/>
+      <trkpt lat="52.111837" lon="5.108869"/>
+      <trkpt lat="52.110944" lon="5.110290"/>
+      <trkpt lat="52.110510" lon="5.110818"/>
+      <trkpt lat="52.107646" lon="5.113723"/>
+      <trkpt lat="52.107051" lon="5.114444"/>
+      <trkpt lat="52.106822" lon="5.114632"/>
+      <trkpt lat="52.106382" lon="5.114882"/>
+      <trkpt lat="52.106135" lon="5.115094"/>
+      <trkpt lat="52.106052" lon="5.115230"/>
+      <trkpt lat="52.106046" lon="5.115547">
+        <desc>Continue onto Kardinaal de Jongweg Go through 1 roundabout; go 1.9km</desc>
+      </trkpt>
+      <trkpt lat="52.106127" lon="5.115882"/>
+      <trkpt lat="52.106147" lon="5.116439"/>
+      <trkpt lat="52.106007" lon="5.118584"/>
+      <trkpt lat="52.105918" lon="5.119149"/>
+      <trkpt lat="52.104821" lon="5.124346"/>
+      <trkpt lat="52.103556" lon="5.130063"/>
+      <trkpt lat="52.103457" lon="5.130168"/>
+      <trkpt lat="52.103379" lon="5.130412"/>
+      <trkpt lat="52.103366" lon="5.130621"/>
+      <trkpt lat="52.103412" lon="5.130896"/>
+      <trkpt lat="52.103117" lon="5.132151"/>
+      <trkpt lat="52.102909" lon="5.133334"/>
+      <trkpt lat="52.102700" lon="5.135358"/>
+      <trkpt lat="52.102326" lon="5.142160"/>
+      <trkpt lat="52.102280" lon="5.142467"/>
+      <trkpt lat="52.102191" lon="5.142732">
+        <desc>At the roundabout, take the 2nd exit onto Biltse Rading; go 650m</desc>
+      </trkpt>
+      <trkpt lat="52.102087" lon="5.142826"/>
+      <trkpt lat="52.102016" lon="5.142964"/>
+      <trkpt lat="52.101963" lon="5.143418"/>
+      <trkpt lat="52.102015" lon="5.143639"/>
+      <trkpt lat="52.102104" lon="5.143810"/>
+      <trkpt lat="52.102228" lon="5.144391"/>
+      <trkpt lat="52.102159" lon="5.145937"/>
+      <trkpt lat="52.102185" lon="5.146767"/>
+      <trkpt lat="52.102356" lon="5.147831"/>
+      <trkpt lat="52.103250" lon="5.152036">
+        <desc>Take the A27 ramp to Amersfoort/Breda/Ring Utrecht; go 1.5km</desc>
+      </trkpt>
+      <trkpt lat="52.103236" lon="5.152171"/>
+      <trkpt lat="52.103304" lon="5.152468"/>
+      <trkpt lat="52.103259" lon="5.152651"/>
+      <trkpt lat="52.099455" lon="5.155340"/>
+      <trkpt lat="52.098136" lon="5.156129"/>
+      <trkpt lat="52.096921" lon="5.156961"/>
+      <trkpt lat="52.096051" lon="5.157637"/>
+      <trkpt lat="52.094102" lon="5.159306"/>
+      <trkpt lat="52.093394" lon="5.159810"/>
+      <trkpt lat="52.092865" lon="5.160148"/>
+      <trkpt lat="52.091331" lon="5.160951">
+        <desc>Follow signs for De Uithof/Amersfoort/A28; go 550m</desc>
+      </trkpt>
+      <trkpt lat="52.090831" lon="5.161070"/>
+      <trkpt lat="52.090616" lon="5.161065"/>
+      <trkpt lat="52.090426" lon="5.160979"/>
+      <trkpt lat="52.090244" lon="5.160779"/>
+      <trkpt lat="52.090072" lon="5.160358"/>
+      <trkpt lat="52.090034" lon="5.160008"/>
+      <trkpt lat="52.090073" lon="5.159674"/>
+      <trkpt lat="52.090241" lon="5.159251"/>
+      <trkpt lat="52.090508" lon="5.159011"/>
+      <trkpt lat="52.090713" lon="5.158975"/>
+      <trkpt lat="52.090951" lon="5.159052"/>
+      <trkpt lat="52.091154" lon="5.159295"/>
+      <trkpt lat="52.091278" lon="5.159551"/>
+      <trkpt lat="52.091497" lon="5.160465"/>
+      <trkpt lat="52.091768" lon="5.162284">
+        <desc>Take exit 2 on the left to merge onto A28 toward Amersfoort; go 21.4km</desc>
+      </trkpt>
+      <trkpt lat="52.091898" lon="5.163129"/>
+      <trkpt lat="52.091988" lon="5.163989"/>
+      <trkpt lat="52.092042" lon="5.165086"/>
+      <trkpt lat="52.091983" lon="5.166236"/>
+      <trkpt lat="52.091830" lon="5.167535"/>
+      <trkpt lat="52.091816" lon="5.168528"/>
+      <trkpt lat="52.091866" lon="5.169216"/>
+      <trkpt lat="52.092186" lon="5.171549"/>
+      <trkpt lat="52.092360" lon="5.173466"/>
+      <trkpt lat="52.092480" lon="5.175691"/>
+      <trkpt lat="52.092493" lon="5.178025"/>
+      <trkpt lat="52.092211" lon="5.185886"/>
+      <trkpt lat="52.092160" lon="5.189252"/>
+      <trkpt lat="52.092175" lon="5.191437"/>
+      <trkpt lat="52.092196" lon="5.193203"/>
+      <trkpt lat="52.092271" lon="5.195070"/>
+      <trkpt lat="52.092390" lon="5.196718"/>
+      <trkpt lat="52.092673" lon="5.199081"/>
+      <trkpt lat="52.092754" lon="5.199198"/>
+      <trkpt lat="52.092972" lon="5.200495"/>
+      <trkpt lat="52.093261" lon="5.201676"/>
+      <trkpt lat="52.093523" lon="5.202580"/>
+      <trkpt lat="52.093965" lon="5.203789"/>
+      <trkpt lat="52.094777" lon="5.205493"/>
+      <trkpt lat="52.095552" lon="5.206745"/>
+      <trkpt lat="52.096182" lon="5.207589"/>
+      <trkpt lat="52.096786" lon="5.208302"/>
+      <trkpt lat="52.099252" lon="5.210964"/>
+      <trkpt lat="52.100351" lon="5.212505"/>
+      <trkpt lat="52.101018" lon="5.213699"/>
+      <trkpt lat="52.101713" lon="5.215317"/>
+      <trkpt lat="52.102019" lon="5.216191"/>
+      <trkpt lat="52.102381" lon="5.217533"/>
+      <trkpt lat="52.102670" lon="5.218904"/>
+      <trkpt lat="52.102834" lon="5.220041"/>
+      <trkpt lat="52.102953" lon="5.221588"/>
+      <trkpt lat="52.104573" lon="5.248505"/>
+      <trkpt lat="52.104732" lon="5.250588"/>
+      <trkpt lat="52.104916" lon="5.252345"/>
+      <trkpt lat="52.105190" lon="5.254266"/>
+      <trkpt lat="52.105610" lon="5.256625"/>
+      <trkpt lat="52.113264" lon="5.290796"/>
+      <trkpt lat="52.114151" lon="5.295039"/>
+      <trkpt lat="52.114711" lon="5.298177"/>
+      <trkpt lat="52.115226" lon="5.301782"/>
+      <trkpt lat="52.115597" lon="5.304978"/>
+      <trkpt lat="52.115922" lon="5.309127"/>
+      <trkpt lat="52.116242" lon="5.314913"/>
+      <trkpt lat="52.116425" lon="5.317562"/>
+      <trkpt lat="52.116767" lon="5.320774"/>
+      <trkpt lat="52.117037" lon="5.322452"/>
+      <trkpt lat="52.117322" lon="5.323957"/>
+      <trkpt lat="52.117636" lon="5.325340"/>
+      <trkpt lat="52.118189" lon="5.327386"/>
+      <trkpt lat="52.118852" lon="5.329425"/>
+      <trkpt lat="52.119920" lon="5.332515"/>
+      <trkpt lat="52.121810" lon="5.337384"/>
+      <trkpt lat="52.122742" lon="5.339932"/>
+      <trkpt lat="52.123686" lon="5.342897"/>
+      <trkpt lat="52.124302" lon="5.345137"/>
+      <trkpt lat="52.125368" lon="5.349870"/>
+      <trkpt lat="52.128206" lon="5.364202"/>
+      <trkpt lat="52.129996" lon="5.372818"/>
+      <trkpt lat="52.131183" lon="5.378178"/>
+      <trkpt lat="52.131642" lon="5.380602"/>
+      <trkpt lat="52.131983" lon="5.382632"/>
+      <trkpt lat="52.132253" lon="5.384560"/>
+      <trkpt lat="52.132801" lon="5.389307"/>
+      <trkpt lat="52.133107" lon="5.391278"/>
+      <trkpt lat="52.133565" lon="5.393557"/>
+      <trkpt lat="52.133865" lon="5.394681"/>
+      <trkpt lat="52.134183" lon="5.395716"/>
+      <trkpt lat="52.135209" lon="5.398362"/>
+      <trkpt lat="52.135955" lon="5.399867"/>
+      <trkpt lat="52.136954" lon="5.401590"/>
+      <trkpt lat="52.137456" lon="5.402322"/>
+      <trkpt lat="52.138516" lon="5.403651"/>
+      <trkpt lat="52.139307" lon="5.404557"/>
+      <trkpt lat="52.147611" lon="5.412961"/>
+      <trkpt lat="52.149066" lon="5.414262"/>
+      <trkpt lat="52.150010" lon="5.414964"/>
+      <trkpt lat="52.151484" lon="5.415886"/>
+      <trkpt lat="52.152805" lon="5.416588"/>
+      <trkpt lat="52.153515" lon="5.416910"/>
+      <trkpt lat="52.157873" lon="5.418564"/>
+      <trkpt lat="52.161356" lon="5.419782"/>
+      <trkpt lat="52.164155" lon="5.420892"/>
+      <trkpt lat="52.168777" lon="5.423049">
+        <desc>At the interchange Knooppunt Hoevelaken, keep right and follow signs for A1 toward Apeldoorn; go 91.5km</desc>
+      </trkpt>
+      <trkpt lat="52.168852" lon="5.423155"/>
+      <trkpt lat="52.169875" lon="5.423741"/>
+      <trkpt lat="52.171571" lon="5.424548"/>
+      <trkpt lat="52.172180" lon="5.424994"/>
+      <trkpt lat="52.172848" lon="5.425779"/>
+      <trkpt lat="52.173017" lon="5.426099"/>
+      <trkpt lat="52.173185" lon="5.426565"/>
+      <trkpt lat="52.173282" lon="5.426929"/>
+      <trkpt lat="52.173351" lon="5.427366"/>
+      <trkpt lat="52.173385" lon="5.427817"/>
+      <trkpt lat="52.173404" lon="5.429478"/>
+      <trkpt lat="52.173370" lon="5.431032"/>
+      <trkpt lat="52.173302" lon="5.431566"/>
+      <trkpt lat="52.173211" lon="5.431964"/>
+      <trkpt lat="52.172993" lon="5.432654"/>
+      <trkpt lat="52.171672" lon="5.435631"/>
+      <trkpt lat="52.171124" lon="5.436740"/>
+      <trkpt lat="52.169569" lon="5.440115"/>
+      <trkpt lat="52.168506" lon="5.442821"/>
+      <trkpt lat="52.168155" lon="5.444048"/>
+      <trkpt lat="52.167957" lon="5.444940"/>
+      <trkpt lat="52.167921" lon="5.445334"/>
+      <trkpt lat="52.167623" lon="5.447088"/>
+      <trkpt lat="52.167361" lon="5.449836"/>
+      <trkpt lat="52.162948" lon="5.510199"/>
+      <trkpt lat="52.162776" lon="5.513087"/>
+      <trkpt lat="52.162695" lon="5.515477"/>
+      <trkpt lat="52.162703" lon="5.518439"/>
+      <trkpt lat="52.162943" lon="5.527093"/>
+      <trkpt lat="52.163056" lon="5.529158"/>
+      <trkpt lat="52.163088" lon="5.529241"/>
+      <trkpt lat="52.163295" lon="5.531986"/>
+      <trkpt lat="52.163792" lon="5.536500"/>
+      <trkpt lat="52.166436" lon="5.555675"/>
+      <trkpt lat="52.167258" lon="5.562757"/>
+      <trkpt lat="52.167711" lon="5.567822"/>
+      <trkpt lat="52.168022" lon="5.572757"/>
+      <trkpt lat="52.168230" lon="5.576634"/>
+      <trkpt lat="52.168317" lon="5.579547"/>
+      <trkpt lat="52.168514" lon="5.591264"/>
+      <trkpt lat="52.168775" lon="5.598109"/>
+      <trkpt lat="52.169192" lon="5.605334"/>
+      <trkpt lat="52.169775" lon="5.612877"/>
+      <trkpt lat="52.170456" lon="5.619778"/>
+      <trkpt lat="52.170927" lon="5.623843"/>
+      <trkpt lat="52.171533" lon="5.628581"/>
+      <trkpt lat="52.171847" lon="5.630896"/>
+      <trkpt lat="52.172205" lon="5.633131"/>
+      <trkpt lat="52.172429" lon="5.634274"/>
+      <trkpt lat="52.172839" lon="5.635973"/>
+      <trkpt lat="52.173570" lon="5.638637"/>
+      <trkpt lat="52.174524" lon="5.641714"/>
+      <trkpt lat="52.182993" lon="5.667836"/>
+      <trkpt lat="52.183256" lon="5.668761"/>
+      <trkpt lat="52.186186" lon="5.677753"/>
+      <trkpt lat="52.188162" lon="5.684044"/>
+      <trkpt lat="52.189339" lon="5.688199"/>
+      <trkpt lat="52.190164" lon="5.691899"/>
+      <trkpt lat="52.190738" lon="5.694768"/>
+      <trkpt lat="52.191314" lon="5.698424"/>
+      <trkpt lat="52.191719" lon="5.701930"/>
+      <trkpt lat="52.192050" lon="5.706037"/>
+      <trkpt lat="52.193103" lon="5.721591"/>
+      <trkpt lat="52.193675" lon="5.729069"/>
+      <trkpt lat="52.194135" lon="5.734557"/>
+      <trkpt lat="52.194866" lon="5.742915"/>
+      <trkpt lat="52.195417" lon="5.748740"/>
+      <trkpt lat="52.196014" lon="5.754733"/>
+      <trkpt lat="52.197084" lon="5.764669"/>
+      <trkpt lat="52.198675" lon="5.778204"/>
+      <trkpt lat="52.200157" lon="5.789730"/>
+      <trkpt lat="52.200920" lon="5.794397"/>
+      <trkpt lat="52.201342" lon="5.796532"/>
+      <trkpt lat="52.202015" lon="5.799704"/>
+      <trkpt lat="52.202764" lon="5.802802"/>
+      <trkpt lat="52.203333" lon="5.805711"/>
+      <trkpt lat="52.203570" lon="5.807320"/>
+      <trkpt lat="52.203700" lon="5.808682"/>
+      <trkpt lat="52.203798" lon="5.810459"/>
+      <trkpt lat="52.203843" lon="5.812093"/>
+      <trkpt lat="52.203800" lon="5.813677"/>
+      <trkpt lat="52.203670" lon="5.815707"/>
+      <trkpt lat="52.203435" lon="5.817739"/>
+      <trkpt lat="52.203204" lon="5.819152"/>
+      <trkpt lat="52.202830" lon="5.820967"/>
+      <trkpt lat="52.202451" lon="5.822421"/>
+      <trkpt lat="52.202200" lon="5.823270"/>
+      <trkpt lat="52.201642" lon="5.824876"/>
+      <trkpt lat="52.200924" lon="5.826627"/>
+      <trkpt lat="52.200241" lon="5.828020"/>
+      <trkpt lat="52.199447" lon="5.829444"/>
+      <trkpt lat="52.193597" lon="5.838757"/>
+      <trkpt lat="52.192876" lon="5.840015"/>
+      <trkpt lat="52.191993" lon="5.841681"/>
+      <trkpt lat="52.191155" lon="5.843519"/>
+      <trkpt lat="52.190167" lon="5.846149"/>
+      <trkpt lat="52.189491" lon="5.848343"/>
+      <trkpt lat="52.188623" lon="5.851744"/>
+      <trkpt lat="52.188026" lon="5.854866"/>
+      <trkpt lat="52.187726" lon="5.857235"/>
+      <trkpt lat="52.187416" lon="5.860797"/>
+      <trkpt lat="52.186553" lon="5.873448"/>
+      <trkpt lat="52.185315" lon="5.887015"/>
+      <trkpt lat="52.184986" lon="5.890317"/>
+      <trkpt lat="52.184043" lon="5.899162"/>
+      <trkpt lat="52.183065" lon="5.907433"/>
+      <trkpt lat="52.182133" lon="5.914751"/>
+      <trkpt lat="52.180940" lon="5.923377"/>
+      <trkpt lat="52.179120" lon="5.935666"/>
+      <trkpt lat="52.178417" lon="5.939193"/>
+      <trkpt lat="52.177755" lon="5.941740"/>
+      <trkpt lat="52.177162" lon="5.943595"/>
+      <trkpt lat="52.176202" lon="5.946156"/>
+      <trkpt lat="52.175190" lon="5.948720"/>
+      <trkpt lat="52.174365" lon="5.951313"/>
+      <trkpt lat="52.174008" lon="5.952551"/>
+      <trkpt lat="52.173560" lon="5.954448"/>
+      <trkpt lat="52.173208" lon="5.956287"/>
+      <trkpt lat="52.172957" lon="5.957936"/>
+      <trkpt lat="52.172731" lon="5.959984"/>
+      <trkpt lat="52.172575" lon="5.962554"/>
+      <trkpt lat="52.172547" lon="5.964071"/>
+      <trkpt lat="52.172602" lon="5.966592"/>
+      <trkpt lat="52.172692" lon="5.967948"/>
+      <trkpt lat="52.172832" lon="5.969385"/>
+      <trkpt lat="52.173080" lon="5.971260"/>
+      <trkpt lat="52.173532" lon="5.973844"/>
+      <trkpt lat="52.173987" lon="5.975679"/>
+      <trkpt lat="52.174694" lon="5.978057"/>
+      <trkpt lat="52.175431" lon="5.980118"/>
+      <trkpt lat="52.176137" lon="5.981784"/>
+      <trkpt lat="52.177684" lon="5.985100"/>
+      <trkpt lat="52.178649" lon="5.987274"/>
+      <trkpt lat="52.179486" lon="5.989534"/>
+      <trkpt lat="52.180009" lon="5.991254"/>
+      <trkpt lat="52.180650" lon="5.993700"/>
+      <trkpt lat="52.184306" lon="6.010272"/>
+      <trkpt lat="52.185584" lon="6.015788"/>
+      <trkpt lat="52.186546" lon="6.019239"/>
+      <trkpt lat="52.187503" lon="6.021936"/>
+      <trkpt lat="52.188075" lon="6.023382"/>
+      <trkpt lat="52.195312" lon="6.041216"/>
+      <trkpt lat="52.197044" lon="6.045394"/>
+      <trkpt lat="52.198453" lon="6.049364"/>
+      <trkpt lat="52.199045" lon="6.051456"/>
+      <trkpt lat="52.199511" lon="6.053339"/>
+      <trkpt lat="52.199798" lon="6.054741"/>
+      <trkpt lat="52.203250" lon="6.069969"/>
+      <trkpt lat="52.206546" lon="6.084877"/>
+      <trkpt lat="52.208417" lon="6.093125"/>
+      <trkpt lat="52.209606" lon="6.097241"/>
+      <trkpt lat="52.210914" lon="6.100949"/>
+      <trkpt lat="52.214358" lon="6.109476"/>
+      <trkpt lat="52.214936" lon="6.111336"/>
+      <trkpt lat="52.215411" lon="6.113348"/>
+      <trkpt lat="52.216628" lon="6.120646"/>
+      <trkpt lat="52.217036" lon="6.122843"/>
+      <trkpt lat="52.217433" lon="6.124594"/>
+      <trkpt lat="52.217761" lon="6.125873"/>
+      <trkpt lat="52.218322" lon="6.127829"/>
+      <trkpt lat="52.219888" lon="6.132249"/>
+      <trkpt lat="52.225257" lon="6.145490"/>
+      <trkpt lat="52.226313" lon="6.148003"/>
+      <trkpt lat="52.227153" lon="6.150169"/>
+      <trkpt lat="52.227762" lon="6.152010"/>
+      <trkpt lat="52.228109" lon="6.153207"/>
+      <trkpt lat="52.228902" lon="6.156374"/>
+      <trkpt lat="52.230993" lon="6.165019"/>
+      <trkpt lat="52.231406" lon="6.166854"/>
+      <trkpt lat="52.233181" lon="6.174251"/>
+      <trkpt lat="52.233553" lon="6.176160"/>
+      <trkpt lat="52.233888" lon="6.178267"/>
+      <trkpt lat="52.234155" lon="6.180713"/>
+      <trkpt lat="52.235151" lon="6.198894"/>
+      <trkpt lat="52.235547" lon="6.204026"/>
+      <trkpt lat="52.236209" lon="6.210511"/>
+      <trkpt lat="52.236551" lon="6.213250"/>
+      <trkpt lat="52.236795" lon="6.215785"/>
+      <trkpt lat="52.237102" lon="6.219513"/>
+      <trkpt lat="52.237511" lon="6.225188"/>
+      <trkpt lat="52.237692" lon="6.228778"/>
+      <trkpt lat="52.237805" lon="6.231957"/>
+      <trkpt lat="52.238089" lon="6.237284"/>
+      <trkpt lat="52.238242" lon="6.239447"/>
+      <trkpt lat="52.238585" lon="6.243450"/>
+      <trkpt lat="52.239088" lon="6.248408"/>
+      <trkpt lat="52.239494" lon="6.251857"/>
+      <trkpt lat="52.242415" lon="6.274901"/>
+      <trkpt lat="52.242756" lon="6.278569"/>
+      <trkpt lat="52.242886" lon="6.280343"/>
+      <trkpt lat="52.243025" lon="6.283156"/>
+      <trkpt lat="52.243103" lon="6.286659"/>
+      <trkpt lat="52.243033" lon="6.299318"/>
+      <trkpt lat="52.242860" lon="6.317527"/>
+      <trkpt lat="52.242905" lon="6.321153"/>
+      <trkpt lat="52.243077" lon="6.325112"/>
+      <trkpt lat="52.243332" lon="6.328540"/>
+      <trkpt lat="52.244261" lon="6.338085"/>
+      <trkpt lat="52.245208" lon="6.347337"/>
+      <trkpt lat="52.245530" lon="6.350766"/>
+      <trkpt lat="52.245770" lon="6.354052"/>
+      <trkpt lat="52.245882" lon="6.356382"/>
+      <trkpt lat="52.245946" lon="6.359137"/>
+      <trkpt lat="52.245927" lon="6.363209"/>
+      <trkpt lat="52.245716" lon="6.370225"/>
+      <trkpt lat="52.245746" lon="6.372895"/>
+      <trkpt lat="52.245886" lon="6.375453"/>
+      <trkpt lat="52.246167" lon="6.378577"/>
+      <trkpt lat="52.246578" lon="6.381647"/>
+      <trkpt lat="52.248608" lon="6.394104"/>
+      <trkpt lat="52.249371" lon="6.398984"/>
+      <trkpt lat="52.249915" lon="6.402955"/>
+      <trkpt lat="52.250504" lon="6.408491"/>
+      <trkpt lat="52.251809" lon="6.422654"/>
+      <trkpt lat="52.252034" lon="6.424780"/>
+      <trkpt lat="52.252291" lon="6.426819"/>
+      <trkpt lat="52.252921" lon="6.430233"/>
+      <trkpt lat="52.253595" lon="6.433214"/>
+      <trkpt lat="52.254208" lon="6.435469"/>
+      <trkpt lat="52.254731" lon="6.437147"/>
+      <trkpt lat="52.255813" lon="6.440220"/>
+      <trkpt lat="52.257890" lon="6.445212"/>
+      <trkpt lat="52.266053" lon="6.464167"/>
+      <trkpt lat="52.267015" lon="6.466168"/>
+      <trkpt lat="52.269541" lon="6.471079"/>
+      <trkpt lat="52.271056" lon="6.474383"/>
+      <trkpt lat="52.272087" lon="6.476863"/>
+      <trkpt lat="52.273443" lon="6.480506"/>
+      <trkpt lat="52.274371" lon="6.483319"/>
+      <trkpt lat="52.275313" lon="6.486474"/>
+      <trkpt lat="52.279216" lon="6.501547"/>
+      <trkpt lat="52.281074" lon="6.508496"/>
+      <trkpt lat="52.282465" lon="6.513546"/>
+      <trkpt lat="52.283080" lon="6.516150"/>
+      <trkpt lat="52.283488" lon="6.518376"/>
+      <trkpt lat="52.283780" lon="6.520685"/>
+      <trkpt lat="52.283934" lon="6.522462"/>
+      <trkpt lat="52.284085" lon="6.525471"/>
+      <trkpt lat="52.284057" lon="6.527375"/>
+      <trkpt lat="52.283989" lon="6.528854"/>
+      <trkpt lat="52.283669" lon="6.532231"/>
+      <trkpt lat="52.283047" lon="6.537945"/>
+      <trkpt lat="52.282971" lon="6.541153"/>
+      <trkpt lat="52.283039" lon="6.543368"/>
+      <trkpt lat="52.283189" lon="6.545468"/>
+      <trkpt lat="52.283649" lon="6.550662"/>
+      <trkpt lat="52.283848" lon="6.553428"/>
+      <trkpt lat="52.284025" lon="6.556921"/>
+      <trkpt lat="52.284093" lon="6.558937"/>
+      <trkpt lat="52.284134" lon="6.564469"/>
+      <trkpt lat="52.284095" lon="6.567520"/>
+      <trkpt lat="52.283719" lon="6.575409"/>
+      <trkpt lat="52.283677" lon="6.577285"/>
+      <trkpt lat="52.283644" lon="6.582823"/>
+      <trkpt lat="52.283731" lon="6.585816"/>
+      <trkpt lat="52.284075" lon="6.590837"/>
+      <trkpt lat="52.284477" lon="6.594674"/>
+      <trkpt lat="52.284912" lon="6.597851"/>
+      <trkpt lat="52.285496" lon="6.601370"/>
+      <trkpt lat="52.285828" lon="6.603153"/>
+      <trkpt lat="52.287256" lon="6.610467"/>
+      <trkpt lat="52.290245" lon="6.626155"/>
+      <trkpt lat="52.292918" lon="6.640521"/>
+      <trkpt lat="52.294954" lon="6.652587"/>
+      <trkpt lat="52.295808" lon="6.656716"/>
+      <trkpt lat="52.296273" lon="6.658621"/>
+      <trkpt lat="52.297008" lon="6.661339"/>
+      <trkpt lat="52.297806" lon="6.663986"/>
+      <trkpt lat="52.299009" lon="6.667496"/>
+      <trkpt lat="52.299848" lon="6.669646"/>
+      <trkpt lat="52.300979" lon="6.672303"/>
+      <trkpt lat="52.301972" lon="6.674428"/>
+      <trkpt lat="52.304552" lon="6.679342"/>
+      <trkpt lat="52.305669" lon="6.681574"/>
+      <trkpt lat="52.307222" lon="6.685065"/>
+      <trkpt lat="52.307598" lon="6.686015">
+        <desc>At the interchange Knooppunt Azelo, keep right and follow signs for E30/A35/A1 toward Enschede/Hengelo/Osnabrück; go 3.2km</desc>
+      </trkpt>
+      <trkpt lat="52.307725" lon="6.686513"/>
+      <trkpt lat="52.308326" lon="6.688323"/>
+      <trkpt lat="52.308752" lon="6.690250"/>
+      <trkpt lat="52.308950" lon="6.691588"/>
+      <trkpt lat="52.309050" lon="6.692730"/>
+      <trkpt lat="52.309093" lon="6.693738"/>
+      <trkpt lat="52.309090" lon="6.694816"/>
+      <trkpt lat="52.309022" lon="6.696132"/>
+      <trkpt lat="52.308699" lon="6.699100"/>
+      <trkpt lat="52.308380" lon="6.701228"/>
+      <trkpt lat="52.308084" lon="6.702558"/>
+      <trkpt lat="52.307880" lon="6.703289"/>
+      <trkpt lat="52.307434" lon="6.704606"/>
+      <trkpt lat="52.306804" lon="6.706096"/>
+      <trkpt lat="52.306668" lon="6.706534"/>
+      <trkpt lat="52.304627" lon="6.710839"/>
+      <trkpt lat="52.303409" lon="6.713148"/>
+      <trkpt lat="52.302697" lon="6.714394"/>
+      <trkpt lat="52.301493" lon="6.716343"/>
+      <trkpt lat="52.299312" lon="6.719666"/>
+      <trkpt lat="52.296248" lon="6.724211">
+        <desc>Take exit 29-Borne-West toward Kluft; go 550m</desc>
+      </trkpt>
+      <trkpt lat="52.296048" lon="6.724371"/>
+      <trkpt lat="52.294923" lon="6.725824"/>
+      <trkpt lat="52.294600" lon="6.726111"/>
+      <trkpt lat="52.293630" lon="6.726801"/>
+      <trkpt lat="52.293225" lon="6.727188"/>
+      <trkpt lat="52.292909" lon="6.727572"/>
+      <trkpt lat="52.292100" lon="6.728739">
+        <desc>Turn left onto Kluft; go 550m</desc>
+      </trkpt>
+      <trkpt lat="52.293438" lon="6.730474"/>
+      <trkpt lat="52.293997" lon="6.731122"/>
+      <trkpt lat="52.294472" lon="6.731472"/>
+      <trkpt lat="52.294925" lon="6.731600"/>
+      <trkpt lat="52.295435" lon="6.731553"/>
+      <trkpt lat="52.295962" lon="6.731372"/>
+      <trkpt lat="52.296561" lon="6.731016">
+        <desc>Continue onto Hosbekkeweg; go 700m</desc>
+      </trkpt>
+      <trkpt lat="52.296751" lon="6.730892"/>
+      <trkpt lat="52.297102" lon="6.730523"/>
+      <trkpt lat="52.297500" lon="6.729958"/>
+      <trkpt lat="52.297837" lon="6.729372"/>
+      <trkpt lat="52.298070" lon="6.729163"/>
+      <trkpt lat="52.298267" lon="6.729089"/>
+      <trkpt lat="52.301535" lon="6.729031"/>
+      <trkpt lat="52.301660" lon="6.729079"/>
+      <trkpt lat="52.301898" lon="6.729278"/>
+      <trkpt lat="52.302220" lon="6.729681">
+        <desc>Continue straight onto Bornerbroeksestraat; go 450m</desc>
+      </trkpt>
+      <trkpt lat="52.302430" lon="6.730082"/>
+      <trkpt lat="52.302604" lon="6.730588"/>
+      <trkpt lat="52.302623" lon="6.734388"/>
+      <trkpt lat="52.302659" lon="6.734679"/>
+      <trkpt lat="52.302745" lon="6.734899"/>
+      <trkpt lat="52.302913" lon="6.735056"/>
+      <trkpt lat="52.303059" lon="6.735098"/>
+      <trkpt lat="52.303370" lon="6.735082">
+        <desc>Continue onto Oonksweg; go 850m</desc>
+      </trkpt>
+      <trkpt lat="52.305497" lon="6.734904"/>
+      <trkpt lat="52.305670" lon="6.734971"/>
+      <trkpt lat="52.306114" lon="6.735400"/>
+      <trkpt lat="52.306482" lon="6.736357"/>
+      <trkpt lat="52.306745" lon="6.736746"/>
+      <trkpt lat="52.306857" lon="6.736979"/>
+      <trkpt lat="52.308017" lon="6.740279"/>
+      <trkpt lat="52.308653" lon="6.742265">
+        <desc>Turn left onto Prins Bernhardlaan; go 220m</desc>
+      </trkpt>
+      <trkpt lat="52.310252" lon="6.740386">
+        <desc>Take the 1st right to stay on Prins Bernhardlaan; go 27m</desc>
+      </trkpt>
+      <trkpt lat="52.310403" lon="6.740441"/>
+      <trkpt lat="52.310476" lon="6.740522">
+        <desc>At the roundabout, take the 3rd exit onto Rondweg/N743 Continue to follow N743 Go through 1 roundabout; go 2.0km</desc>
+      </trkpt>
+      <trkpt lat="52.310498" lon="6.740703"/>
+      <trkpt lat="52.310550" lon="6.740773"/>
+      <trkpt lat="52.310640" lon="6.740807"/>
+      <trkpt lat="52.310726" lon="6.740757"/>
+      <trkpt lat="52.310782" lon="6.740639"/>
+      <trkpt lat="52.310776" lon="6.740435"/>
+      <trkpt lat="52.311162" lon="6.739535"/>
+      <trkpt lat="52.311674" lon="6.738773"/>
+      <trkpt lat="52.320696" lon="6.728306"/>
+      <trkpt lat="52.320856" lon="6.728179"/>
+      <trkpt lat="52.321229" lon="6.727745"/>
+      <trkpt lat="52.321298" lon="6.727779"/>
+      <trkpt lat="52.321404" lon="6.727720"/>
+      <trkpt lat="52.321462" lon="6.727622"/>
+      <trkpt lat="52.321466" lon="6.727479"/>
+      <trkpt lat="52.321925" lon="6.726932"/>
+      <trkpt lat="52.321976" lon="6.726821"/>
+      <trkpt lat="52.323557" lon="6.724942"/>
+      <trkpt lat="52.323627" lon="6.724906"/>
+      <trkpt lat="52.323814" lon="6.724563"/>
+      <trkpt lat="52.323940" lon="6.724043"/>
+      <trkpt lat="52.324006" lon="6.723151">
+        <desc>Turn right onto Albergerweg/N744 Continue to follow N744; go 5.4km</desc>
+      </trkpt>
+      <trkpt lat="52.326381" lon="6.723992"/>
+      <trkpt lat="52.327978" lon="6.725122"/>
+      <trkpt lat="52.329149" lon="6.725567"/>
+      <trkpt lat="52.329382" lon="6.725704"/>
+      <trkpt lat="52.329773" lon="6.726064"/>
+      <trkpt lat="52.331452" lon="6.728227"/>
+      <trkpt lat="52.332224" lon="6.729160"/>
+      <trkpt lat="52.332642" lon="6.729407"/>
+      <trkpt lat="52.333809" lon="6.729846"/>
+      <trkpt lat="52.334132" lon="6.730039"/>
+      <trkpt lat="52.334340" lon="6.730228"/>
+      <trkpt lat="52.334698" lon="6.730698"/>
+      <trkpt lat="52.335354" lon="6.731380"/>
+      <trkpt lat="52.336458" lon="6.732664"/>
+      <trkpt lat="52.338472" lon="6.736038"/>
+      <trkpt lat="52.338778" lon="6.736716"/>
+      <trkpt lat="52.338890" lon="6.737172"/>
+      <trkpt lat="52.339500" lon="6.740326"/>
+      <trkpt lat="52.339659" lon="6.742708"/>
+      <trkpt lat="52.339726" lon="6.743265"/>
+      <trkpt lat="52.339876" lon="6.743922"/>
+      <trkpt lat="52.340153" lon="6.744609"/>
+      <trkpt lat="52.345261" lon="6.752182"/>
+      <trkpt lat="52.346571" lon="6.753815"/>
+      <trkpt lat="52.349401" lon="6.758305"/>
+      <trkpt lat="52.349807" lon="6.758787"/>
+      <trkpt lat="52.350197" lon="6.759069"/>
+      <trkpt lat="52.350744" lon="6.759242"/>
+      <trkpt lat="52.361882" lon="6.759880"/>
+      <trkpt lat="52.361936" lon="6.759938"/>
+      <trkpt lat="52.362579" lon="6.759923">
+        <desc>Turn right onto Kanaal Noordzijde; go 1.1km</desc>
+      </trkpt>
+      <trkpt lat="52.363042" lon="6.763834"/>
+      <trkpt lat="52.363330" lon="6.765446"/>
+      <trkpt lat="52.364372" lon="6.770661"/>
+      <trkpt lat="52.364980" lon="6.774074"/>
+      <trkpt lat="52.365121" lon="6.775367">
+        <desc>Turn left toward Brakenweg; go 63m</desc>
+      </trkpt>
+      <trkpt lat="52.365627" lon="6.775269"/>
+      <trkpt lat="52.365668" lon="6.775218">
+        <desc>Continue straight onto Brakenweg; go 1.1km</desc>
+      </trkpt>
+      <trkpt lat="52.368013" lon="6.774377"/>
+      <trkpt lat="52.368250" lon="6.774372"/>
+      <trkpt lat="52.368358" lon="6.774395"/>
+      <trkpt lat="52.369760" lon="6.775345"/>
+      <trkpt lat="52.370552" lon="6.775756"/>
+      <trkpt lat="52.371093" lon="6.775948"/>
+      <trkpt lat="52.375172" lon="6.776179"/>
+      <trkpt lat="52.375301" lon="6.776151"/>
+      <trkpt lat="52.375499" lon="6.776021">
+        <desc>Turn right onto Ootmarsumseweg/N349; go 5.1km</desc>
+      </trkpt>
+      <trkpt lat="52.377374" lon="6.785352"/>
+      <trkpt lat="52.377776" lon="6.787209"/>
+      <trkpt lat="52.378093" lon="6.788935"/>
+      <trkpt lat="52.378258" lon="6.790254"/>
+      <trkpt lat="52.378324" lon="6.791250"/>
+      <trkpt lat="52.378349" lon="6.792377"/>
+      <trkpt lat="52.378303" lon="6.799001"/>
+      <trkpt lat="52.378336" lon="6.799934"/>
+      <trkpt lat="52.378458" lon="6.800990"/>
+      <trkpt lat="52.378714" lon="6.802206"/>
+      <trkpt lat="52.378952" lon="6.803006"/>
+      <trkpt lat="52.378984" lon="6.803352"/>
+      <trkpt lat="52.378981" lon="6.803846"/>
+      <trkpt lat="52.379109" lon="6.804317"/>
+      <trkpt lat="52.379248" lon="6.804601"/>
+      <trkpt lat="52.379772" lon="6.805305"/>
+      <trkpt lat="52.380149" lon="6.806307"/>
+      <trkpt lat="52.380324" lon="6.806986"/>
+      <trkpt lat="52.380386" lon="6.807023"/>
+      <trkpt lat="52.380658" lon="6.808270"/>
+      <trkpt lat="52.381179" lon="6.811058"/>
+      <trkpt lat="52.381321" lon="6.811607"/>
+      <trkpt lat="52.381653" lon="6.812553"/>
+      <trkpt lat="52.382130" lon="6.813606"/>
+      <trkpt lat="52.386577" lon="6.822376"/>
+      <trkpt lat="52.387790" lon="6.825007"/>
+      <trkpt lat="52.388939" lon="6.827034"/>
+      <trkpt lat="52.391998" lon="6.833104"/>
+      <trkpt lat="52.392785" lon="6.834818"/>
+      <trkpt lat="52.394321" lon="6.837711"/>
+      <trkpt lat="52.394453" lon="6.838096"/>
+      <trkpt lat="52.395100" lon="6.840594"/>
+      <trkpt lat="52.395467" lon="6.841698">
+        <desc>At the roundabout, take the 3rd exit onto Frederikus Johannes Groothuisweg; go 2.2km</desc>
+      </trkpt>
+      <trkpt lat="52.395404" lon="6.841807"/>
+      <trkpt lat="52.395400" lon="6.841917"/>
+      <trkpt lat="52.395429" lon="6.842011"/>
+      <trkpt lat="52.395496" lon="6.842076"/>
+      <trkpt lat="52.395601" lon="6.842044"/>
+      <trkpt lat="52.395647" lon="6.841903"/>
+      <trkpt lat="52.395634" lon="6.841794"/>
+      <trkpt lat="52.395730" lon="6.841710"/>
+      <trkpt lat="52.395901" lon="6.841610"/>
+      <trkpt lat="52.396049" lon="6.841598"/>
+      <trkpt lat="52.396172" lon="6.841648"/>
+      <trkpt lat="52.396958" lon="6.842267"/>
+      <trkpt lat="52.397160" lon="6.842337"/>
+      <trkpt lat="52.398726" lon="6.842032"/>
+      <trkpt lat="52.400466" lon="6.842142"/>
+      <trkpt lat="52.401762" lon="6.842181"/>
+      <trkpt lat="52.401956" lon="6.842135"/>
+      <trkpt lat="52.402207" lon="6.841944"/>
+      <trkpt lat="52.403260" lon="6.840782"/>
+      <trkpt lat="52.404606" lon="6.840048"/>
+      <trkpt lat="52.404855" lon="6.839823"/>
+      <trkpt lat="52.405035" lon="6.839516"/>
+      <trkpt lat="52.405433" lon="6.838475"/>
+      <trkpt lat="52.405897" lon="6.837644"/>
+      <trkpt lat="52.407289" lon="6.835930"/>
+      <trkpt lat="52.407679" lon="6.835479"/>
+      <trkpt lat="52.407861" lon="6.835325"/>
+      <trkpt lat="52.408131" lon="6.835173"/>
+      <trkpt lat="52.409645" lon="6.834560"/>
+      <trkpt lat="52.413537" lon="6.833329">
+        <desc>Continue onto Beekzijdeweg; go 2.3km</desc>
+      </trkpt>
+      <trkpt lat="52.420463" lon="6.831991"/>
+      <trkpt lat="52.422665" lon="6.832883"/>
+      <trkpt lat="52.422963" lon="6.832930"/>
+      <trkpt lat="52.424634" lon="6.832966"/>
+      <trkpt lat="52.425558" lon="6.833130"/>
+      <trkpt lat="52.431083" lon="6.834382"/>
+      <trkpt lat="52.431271" lon="6.834365"/>
+      <trkpt lat="52.431495" lon="6.834217"/>
+      <trkpt lat="52.432000" lon="6.833757"/>
+      <trkpt lat="52.433141" lon="6.833377"/>
+      <trkpt lat="52.433284" lon="6.833243"/>
+      <trkpt lat="52.433580" lon="6.832792"/>
+      <trkpt lat="52.433759" lon="6.832664">
+        <desc>Turn right onto Denekamperweg; go 110m</desc>
+      </trkpt>
+      <trkpt lat="52.433784" lon="6.833638"/>
+      <trkpt lat="52.433704" lon="6.834332">
+        <desc>Take the 2nd left onto Hooidijk; go 2.9km</desc>
+      </trkpt>
+      <trkpt lat="52.433881" lon="6.834415"/>
+      <trkpt lat="52.435162" lon="6.834614"/>
+      <trkpt lat="52.435385" lon="6.834749"/>
+      <trkpt lat="52.435552" lon="6.835046"/>
+      <trkpt lat="52.435631" lon="6.835382"/>
+      <trkpt lat="52.435746" lon="6.836256"/>
+      <trkpt lat="52.435878" lon="6.836786"/>
+      <trkpt lat="52.436129" lon="6.837475"/>
+      <trkpt lat="52.436511" lon="6.838208"/>
+      <trkpt lat="52.436609" lon="6.838520"/>
+      <trkpt lat="52.436813" lon="6.839831"/>
+      <trkpt lat="52.437932" lon="6.845960"/>
+      <trkpt lat="52.438653" lon="6.848459"/>
+      <trkpt lat="52.439891" lon="6.851751"/>
+      <trkpt lat="52.440045" lon="6.852264"/>
+      <trkpt lat="52.440101" lon="6.852564"/>
+      <trkpt lat="52.440115" lon="6.852831"/>
+      <trkpt lat="52.440088" lon="6.853116"/>
+      <trkpt lat="52.439425" lon="6.856026"/>
+      <trkpt lat="52.439381" lon="6.856665"/>
+      <trkpt lat="52.439483" lon="6.858072"/>
+      <trkpt lat="52.439377" lon="6.858752"/>
+      <trkpt lat="52.438851" lon="6.861240"/>
+      <trkpt lat="52.438638" lon="6.863258"/>
+      <trkpt lat="52.438760" lon="6.864519"/>
+      <trkpt lat="52.438527" lon="6.866807"/>
+      <trkpt lat="52.438529" lon="6.867446"/>
+      <trkpt lat="52.438656" lon="6.868318"/>
+      <trkpt lat="52.439266" lon="6.871803"/>
+      <trkpt lat="52.439311" lon="6.872036"/>
+      <trkpt lat="52.439387" lon="6.872187">
+        <desc>Turn left to stay on Hooidijk; go 32m</desc>
+      </trkpt>
+      <trkpt lat="52.439672" lon="6.872227">
+        <desc>Take the 1st right to stay on Hooidijk; go 600m</desc>
+      </trkpt>
+      <trkpt lat="52.439714" lon="6.872461"/>
+      <trkpt lat="52.439227" lon="6.881318">
+        <desc>Arrive at: Mosbeekweg 10, 7662 PE Hezingen, The Netherlands</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
 </gpx>
