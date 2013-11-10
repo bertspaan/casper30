@@ -2,6 +2,7 @@
 
 @mosbekke:     red;
 @wouter:     green;
+@hasse:     purple;
 
 // Elements:
   
@@ -13,6 +14,6 @@ Map {
   line-color: @mosbekke;
 }
 
-#casperharlingen, #harlingenwouter {
-  line-color: @wouter;
+#hasse {
+  line-color: @hasse;
 }

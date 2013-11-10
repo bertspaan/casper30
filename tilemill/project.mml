@@ -38,40 +38,22 @@
       "name": "mosbekke"
     },
     {
-      "geometry": "linestring",
+      "geometry": "point",
       "extent": [
-        4.843827,
-        52.078645,
-        5.428015,
-        53.177783
+        4.82986,
+        52.090534,
+        5.094302,
+        52.352177
       ],
-      "id": "casperharlingen",
+      "id": "hasse",
       "class": "",
       "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/casper-harlingen.geojson"
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/hasse.geojson"
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "casperharlingen"
-    },
-    {
-      "geometry": "linestring",
-      "extent": [
-        4.839015,
-        52.077517,
-        5.427791,
-        53.177783
-      ],
-      "id": "harlingenwouter",
-      "class": "",
-      "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/harlingen-wouter.geojson"
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "harlingenwouter"
+      "name": "hasse"
     }
   ],
   "scale": 1,
