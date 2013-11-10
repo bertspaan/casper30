@@ -1,6 +1,6 @@
 // Colors:
 
-@buildings:     #b24224;
+@mosbekke:     red;
 
 
 // Elements:
@@ -10,5 +10,5 @@ Map {
 }
 
 #mosbekke {
-  line-color: red;
+  line-color: @mosbekke;
 }
