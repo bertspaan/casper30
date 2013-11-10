@@ -54,6 +54,24 @@
       "srs": "",
       "advanced": {},
       "name": "hasse"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        5.092033,
+        52.063766,
+        5.298505,
+        52.115372
+      ],
+      "id": "sander",
+      "class": "",
+      "Datasource": {
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/sander.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "sander"
     }
   ],
   "scale": 1,
