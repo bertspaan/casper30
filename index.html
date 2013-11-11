@@ -1,12 +1,43 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-
-		<title>Casper 30!</title>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Buildings in the Netherlands by year of construction</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="leaflet.css" />
+	<script src="jquery-2.0.3.min.js"></script>
+	<script src="leaflet.js"></script>
+</head>
+<body>
+	<div id="map"></div>
+  <span id="close" class="close"></span>
+  <div id="box">
+    <div> 
+      <div id="info">
+        <h2>Casper 30</h2>
+        <p>Bokka</p>
+      </div>
+    </div>
+  <div>
+	<script>    
+		var map = L.map('map');
     
-  </head>
-  <body>
-    Hier komt de kaart met de gekleurde lijntjes!
-  </body>
+    var tileUrl = "http://casper30.nl/tiles/{z}/{x}/{y}.png";
+    
+		L.tileLayer(tileUrl, {
+      attributionControl: false,
+			minZoom: 8,
+			maxZoom: 16
+		}).addTo(map);
+
+    map.setMaxBounds([
+      [48, 0],
+      [57, 10]
+    ]);
+       
+    map.setView([52.3674, 4.915], 11);
+    
+  
+	</script>
+</body>
 </html>
