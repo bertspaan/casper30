@@ -13,18 +13,58 @@ Map {
 
 }
 
-//#points_outline {
-// marker-width: 20px;
-// marker-fill: black;
-// marker-line-color: black;
-//}
+#points_outline[zoom>=11] {
 
-#points {
-  marker-width: 91px;
-  marker-fill: red;
+  [zoom>=11] {
+    marker-width: 13px;
+  }
+  [zoom>13] {
+    marker-width: 21px;
+  }
+
+  marker-fill: black;
+  marker-line-color: black;
+  marker-allow-overlap:true;
 }
 
-#routes::outline {
+#points[zoom>=11] {
+
+  [zoom>=11] {
+    marker-width: 10px;
+  }
+  [zoom>13] {
+    marker-width: 17px;
+  }
+
+  marker-allow-overlap:true;
+  
+  [name="bert"] {
+    marker-fill: @bert;
+    marker-line-color: @bert;
+  }
+  [name="wouter"] {
+    marker-fill: @wouter;
+    marker-line-color: @wouter;
+  }
+  [name="tim"] {
+    marker-fill: @tim;
+    marker-line-color: @tim;    
+  }
+  [name="mosbekke"] {
+    marker-fill: @mosbekke;
+    marker-line-color: @mosbekke;    
+  }
+  [name="hasse"] {
+    marker-fill: @hasse;
+    marker-line-color: @hasse;    
+  } 
+  [name="sander"] {
+    marker-fill: @sander;
+    marker-line-color: @sander;    
+  }
+}
+
+#routes_outline {
   line-color: black;  
   line-join: round;
   line-cap: round;

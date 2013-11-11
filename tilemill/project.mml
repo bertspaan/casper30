@@ -20,6 +20,24 @@
   ],
   "Layer": [
     {
+      "geometry": "linestring",
+      "extent": [
+        4.411037,
+        49.370926,
+        6.881318,
+        52.939831
+      ],
+      "id": "routes_outline",
+      "class": "",
+      "Datasource": {
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/routes/routes.zip"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "routes_outline"
+    },
+    {
       "geometry": "point",
       "extent": [
         4.854369163513184,
