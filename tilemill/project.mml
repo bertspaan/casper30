@@ -22,95 +22,20 @@
     {
       "geometry": "linestring",
       "extent": [
-        5.08541,
-        52.090034,
-        6.881318,
-        52.440115
-      ],
-      "id": "mosbekke",
-      "class": "route",
-      "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/mosbekke.geojson"
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "mosbekke"
-    },
-    {
-      "geometry": "point",
-      "extent": [
         4.82986,
-        52.090534,
-        5.094302,
-        52.352177
-      ],
-      "id": "hasse",
-      "class": "route",
-      "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/hasse.geojson",
-        "id": "hasse",
-        "project": "casper30",
-        "srs": ""
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "hasse"
-    },
-    {
-      "geometry": "point",
-      "extent": [
-        5.092033,
         52.063766,
-        5.298505,
-        52.115372
-      ],
-      "id": "sander",
-      "class": "route",
-      "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/sander.geojson"
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "sander"
-    },
-    {
-      "geometry": "point",
-      "extent": [
-        4.843827,
-        52.065376,
-        5.911733,
+        6.880123615264893,
         53.206947
       ],
-      "id": "wouter",
-      "class": "route",
+      "id": "routes",
+      "class": "",
       "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/wouter.geojson"
+        "file": "/Users/bert/dev/checkouts/casper30/routes.zip"
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "wouter"
-    },
-    {
-      "geometry": "point",
-      "extent": [
-        4.411037,
-        49.370926,
-        5.625429,
-        52.370758
-      ],
-      "id": "bert",
-      "class": "route",
-      "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/bert.geojson"
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "bert"
+      "name": "routes"
     }
   ],
   "scale": 1,

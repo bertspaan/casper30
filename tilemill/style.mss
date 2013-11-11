@@ -4,7 +4,7 @@
 @wouter:    green; // Via Harlingen
 @hasse:     purple;
 @bert:      rgb(78,90,0);
-@tim:       rgb(0,0,0);
+@tim:       rgb(65,0,190);
 @sander:    #4fd1d6;
   
 // Elements:
@@ -13,39 +13,39 @@ Map {
   background-color: white;
 }
 
-.route::outline {
+#routes::outline {
   line-color: black;
   line-width: 8px;
+  
+  line-join: round;
+  line-cap: round;
 }
 
-.route {
-  line-width: 4px;
-  //line-gamma: 0.5;
-  //line-opacity: 0.7;
-  //image-filters:  agg-stack-blur(1,1);
+#routes {
+  line-color: red;
+  line-width: 3px;
+  
+  line-join: round;
+  line-cap: round;  
+
+  [name="bert"] {
+    line-color: @bert;
+  }
+  [name="wouter"] {
+    line-color: @wouter;
+  }
+  [name="tim"] {
+    line-color: @tim;
+  }
+  [name="mosbekke"] {
+    line-color: @mosbekke;
+  }
+  [name="hasse"] {
+    line-color: @hasse;
+  } 
+  [name="sander"] {
+    line-color: @sander;
+  }
+  
 }
 
-
-#bert {
-  line-color: @bert;
-}
-
-#wouter {
-  line-color: @wouter;
-}
-
-#tim {
-  line-color: @tim;
-}
-
-#mosbekke {
-  line-color: @mosbekke;
-}
-
-#hasse {
-  line-color: @hasse;
-}
-
-#sander {
-  line-color: @sander;
-}
