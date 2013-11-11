@@ -13,7 +13,7 @@
   "format": "png8",
   "interactivity": false,
   "minzoom": 7,
-  "maxzoom": 17,
+  "maxzoom": 15,
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
   "Stylesheet": [
     "style.mss"
@@ -22,15 +22,18 @@
     {
       "geometry": "linestring",
       "extent": [
-        4.82986,
-        52.063766,
-        6.880123615264893,
-        53.206947
+        4.411037,
+        49.370926,
+        6.881318,
+        52.939831
       ],
       "id": "routes",
       "class": "",
       "Datasource": {
-        "file": "/Users/bert/dev/checkouts/casper30/routes.zip"
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/routes/routes.zip",
+        "id": "routes",
+        "project": "casper30",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",

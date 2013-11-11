@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mosbekke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881346702575684,
+          52.43926935464697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.854369163513184,
+          52.35218410516027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900631904602051,
+          52.37052936608432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.092763900756836,
+          52.07317570574056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wouter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.112719535827637,
+          52.07755425761449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.125744342803955,
+          52.09459618655632
+        ]
+      }
+    }
+  ]
+}
