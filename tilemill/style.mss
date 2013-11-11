@@ -13,6 +13,17 @@ Map {
 
 }
 
+//#points_outline {
+// marker-width: 20px;
+// marker-fill: black;
+// marker-line-color: black;
+//}
+
+#points {
+  marker-width: 91px;
+  marker-fill: red;
+}
+
 #routes::outline {
   line-color: black;  
   line-join: round;

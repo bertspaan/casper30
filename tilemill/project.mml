@@ -20,6 +20,24 @@
   ],
   "Layer": [
     {
+      "geometry": "point",
+      "extent": [
+        4.854369163513184,
+        52.07317570574056,
+        6.881346702575684,
+        52.43926935464697
+      ],
+      "id": "points_outline",
+      "class": "",
+      "Datasource": {
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/routes/points.zip"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "points_outline"
+    },
+    {
       "geometry": "linestring",
       "extent": [
         4.411037,
@@ -39,6 +57,24 @@
       "srs": "",
       "advanced": {},
       "name": "routes"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        4.854369163513184,
+        52.07317570574056,
+        6.881346702575684,
+        52.43926935464697
+      ],
+      "id": "points",
+      "class": "",
+      "Datasource": {
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/routes/points.zip"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "points"
     }
   ],
   "scale": 1,
