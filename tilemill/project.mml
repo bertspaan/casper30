@@ -1,18 +1,18 @@
 {
   "bounds": [
-    4.5083,
-    51.4844,
-    7.1863,
-    52.804
+    4.1307,
+    49.2826,
+    7.1959,
+    53.2788
   ],
   "center": [
-    6.1755,
-    52.2913,
-    9
+    5.2073,
+    52.0799,
+    7
   ],
   "format": "png8",
   "interactivity": false,
-  "minzoom": 9,
+  "minzoom": 7,
   "maxzoom": 17,
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
   "Stylesheet": [
@@ -22,13 +22,13 @@
     {
       "geometry": "linestring",
       "extent": [
-        5.09421,
-        52.09073,
-        6.88439,
-        52.4401
+        5.08541,
+        52.090034,
+        6.881318,
+        52.440115
       ],
       "id": "mosbekke",
-      "class": "",
+      "class": "route",
       "Datasource": {
         "file": "https://github.com/bertspaan/casper30/raw/gh-pages/mosbekke.geojson"
       },
@@ -46,9 +46,12 @@
         52.352177
       ],
       "id": "hasse",
-      "class": "",
+      "class": "route",
       "Datasource": {
-        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/hasse.geojson"
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/hasse.geojson",
+        "id": "hasse",
+        "project": "casper30",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
@@ -64,7 +67,7 @@
         52.115372
       ],
       "id": "sander",
-      "class": "",
+      "class": "route",
       "Datasource": {
         "file": "https://github.com/bertspaan/casper30/raw/gh-pages/sander.geojson"
       },
@@ -72,6 +75,42 @@
       "srs": "",
       "advanced": {},
       "name": "sander"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        4.843827,
+        52.065376,
+        5.911733,
+        53.206947
+      ],
+      "id": "wouter",
+      "class": "route",
+      "Datasource": {
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/wouter.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wouter"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        4.411037,
+        49.370926,
+        5.625429,
+        52.370758
+      ],
+      "id": "bert",
+      "class": "route",
+      "Datasource": {
+        "file": "https://github.com/bertspaan/casper30/raw/gh-pages/bert.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "bert"
     }
   ],
   "scale": 1,
