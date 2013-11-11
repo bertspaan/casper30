@@ -10,7 +10,7 @@
 // Elements:
   
 Map {
-  background-color: white;
+ 
 }
 
 #routes::outline {
@@ -48,4 +48,3 @@ Map {
   }
   
 }
-

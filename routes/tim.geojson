@@ -12,7 +12,10 @@
                 ]
             },
             "properties": {
-                "name": "tim"            }
+                "name": "From: Kanaalstraat 231, Utrecht",
+                "styleUrl": "#style2",
+                "styleHash": "-4265a552"
+            }
         },
         {
             "type": "Feature",
@@ -1287,7 +1290,10 @@
                 ]
             },
             "properties": {
-                "name": "tim"
+                "name": "Walking directions to Lange Jufferstraat",
+                "styleUrl": "#style1",
+                "styleHash": "-1bac738f",
+                "_SnapToRoads": "true"
             }
         },
         {
@@ -1301,7 +1307,9 @@
                 ]
             },
             "properties": {
-                "name": "tim"
+                "name": "To: Lange Jufferstraat",
+                "styleUrl": "#style3",
+                "styleHash": "-a74ca33"
             }
         }
     ]
