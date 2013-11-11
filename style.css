@@ -56,7 +56,7 @@ p:last-child {
 }
 
 .leaflet-map-pane {
-  background-image: url('grid.ong');
+  background-image: url('grid.png');
   background-repeat: repeat;
 }
 
