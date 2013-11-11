@@ -6,11 +6,13 @@
 @bert:      rgb(255, 138, 24);
 @tim:       rgb(52, 210, 255);
 @sander:    rgb(255, 234, 0);
-  
+
+@outline: black;
+
 // Elements:
   
 Map {
-
+background-color: white;
 }
 
 #points_outline[zoom>=11] {
@@ -22,8 +24,8 @@ Map {
     marker-width: 21px;
   }
 
-  marker-fill: black;
-  marker-line-color: black;
+  marker-fill: @outline;
+  marker-line-color: @outline;
   marker-allow-overlap:true;
 }
 
@@ -65,7 +67,7 @@ Map {
 }
 
 #routes_outline {
-  line-color: black;  
+  line-color:  @outline;  
   line-join: round;
   line-cap: round;
   
