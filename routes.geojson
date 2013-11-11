@@ -1691,19 +1691,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.092033,
-          52.073559
-        ]
-      },
-      "properties": {
-        "name": "sander"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -7206,32 +7193,6 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.112699,
-          52.077518
-        ]
-      },
-      "properties": {
-        "name": "wouter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.092033,
-          52.073559
-        ]
-      },
-      "properties": {
-        "name": "sander"
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "name": "mosbekke"
       },
@@ -12723,45 +12684,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.854369,
-          52.352177
-        ]
-      },
-      "properties": {
-        "name": "hasse"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.900596,
-          52.370758
-        ]
-      },
-      "properties": {
-        "name": "bert"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "mosbekke"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.880102157592773,
-          52.43563278670201
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -13776,19 +13698,6 @@
             5.125743,
             52.094582
           ]
-        ]
-      },
-      "properties": {
-        "name": "tim"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.125743,
-          52.094582
         ]
       },
       "properties": {
