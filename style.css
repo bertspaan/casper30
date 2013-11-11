@@ -55,6 +55,11 @@ p:last-child {
   margin-bottom: 10px;
 }
 
+.leaflet-map-pane {
+  background-image: url('grid.ong');
+  background-repeat: repeat;
+}
+
 #box #info h2 {
   margin-top: 0;
 }
